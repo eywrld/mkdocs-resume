@@ -33,5 +33,5 @@ jobs:
 
     #  - run: mike deploy --push --update-aliases 0.1 dev
 
-      - run: mike set-default dev
+      - run: mike set-default --push dev
     #  - run: mkdocs gh-deploy --force
