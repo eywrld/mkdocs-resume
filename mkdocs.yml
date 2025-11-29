@@ -1,0 +1,50 @@
+site_name: Alfonso Antonio Alcala
+site_url: https://eywrld.github.io/mkdocs-resume/
+theme:
+  name: material
+  custom_dir: overrides
+  features:
+    - navigation.tabs
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: fontawesome/solid/computer
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
+      toggle:
+        icon: octicons/sun-16
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      toggle:
+        icon: octicons/moon-16
+        name: Switch to system preference
+  icon:
+    repo: fontawesome/brands/github
+    logo: simple/arc
+extra_css:
+  - stylesheets/extra.css
+
+
+repo_url: https://github.com/eywrld/mkdocs-resume/
+repo_name: eywrld/mkdocs-resume
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra:
+  social:
+    - icon: material/linkedin
+      link: https://www.linkedin.com/in/aa-alcala/
+    - icon: material/github
+      link: https://github.com/eywrld
+    - icon: material/instagram
+      link: https://www.instagram.com/alfonsoalcala_/
+  version:
+    provider: mike
+    default: dev
