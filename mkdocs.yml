@@ -43,8 +43,8 @@ extra:
       link: https://www.linkedin.com/in/aa-alcala/
     - icon: material/github
       link: https://github.com/eywrld
-#    - icon: material/instagram
-#      link: https://www.instagram.com/alfonsoalcala_/
+    - icon: material/instagram
+      link: https://www.instagram.com/alfonsoalcala_/
   version:
     provider: mike
     # default: dev

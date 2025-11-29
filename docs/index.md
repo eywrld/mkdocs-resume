@@ -4,6 +4,9 @@ Hi Everyone! :wave_tone3: My name is **Alfonso Antonio**, you can call me by my 
 
 I'm 25 Years old and do live in **Manila, Philippines** :flag_ph:
 
+
+
+  <!-- This is an HTML comment. It will be visible in the source HTML but typically not in the rendered Markdown. 
 ## Commands
 
 * `mkdocs new [dir-name]` - Create a new project.
@@ -17,3 +20,5 @@ I'm 25 Years old and do live in **Manila, Philippines** :flag_ph:
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+
+-->
