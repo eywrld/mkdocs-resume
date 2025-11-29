@@ -29,9 +29,9 @@ jobs:
       - run: pip install mike
       - run: git fetch origin gh-pages --depth=1
     #  - run: mike delete --all
-      - run: mike deploy --push --update-aliases 0.2 dev
+      - run: mike deploy --push --update-aliases 0.3 dev
 
     #  - run: mike deploy --push --update-aliases 0.1 dev
 
-      - run: mike set-default --push dev
+    #  - run: mike set-default --push dev
     #  - run: mkdocs gh-deploy --force
