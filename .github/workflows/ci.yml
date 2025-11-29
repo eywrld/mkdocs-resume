@@ -27,8 +27,11 @@ jobs:
             mkdocs-material-
       - run: pip install mkdocs-material 
       - run: pip install mike
-      - run: git fetch origin gh-pages --depth=1
-      - run: mike deploy --push --update-aliases 0.2 dev
-    #  - run: mike delete --all
+    #  - run: git fetch origin gh-pages --depth=1
+      - run: mike delete --all
+      - run: mike deploy --push 0.1 dev
+
+    #  - run: mike deploy --push --update-aliases 0.1 dev
+
       - run: mike set-default dev
     #  - run: mkdocs gh-deploy --force
