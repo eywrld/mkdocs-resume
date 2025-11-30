@@ -37,6 +37,14 @@ markdown_extensions:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
+nav:
+  - About Me: index.md
+  - Education: education.md
+  - Experience: experience.md
+  - Projects: projects.md
+  - Skills: skills.md
+  - Contact: contact.md
+
 extra:
   social:
     - icon: material/linkedin
