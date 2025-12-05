@@ -29,7 +29,7 @@ jobs:
       - run: pip install mike
       - run: git fetch origin gh-pages --depth=1
 #      - run: mike delete --all
-      - run: mike deploy --push --update-aliases 0.5 latest
+      - run: mike deploy --push --update-aliases 0.6 latest
 #      - run: mike deploy --push --update-aliases 0.1 dev
       - run: mike set-default --push latest
     #  - run: mkdocs gh-deploy --force
