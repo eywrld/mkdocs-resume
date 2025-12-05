@@ -10,7 +10,7 @@ I recently graduated last 2024 on **FEU Alabang** 🔰 with a degree of **Comput
 I worked as an **SRE Associate** at **OpsWerks**, serving mostly as an **L1 on-call engineer** for a **Fortune 500 company** specializing in payment systems. ⚙️💳  
 My responsibilities included monitoring system health, responding to service alerts, performing initial incident triage, internal and external partner communication, deployment management, and ensuring platform reliability during production issues. 👨‍💻
 
-I’m passionate about fitness 💪, curious about cloud engineering ☁️, and I enjoy experimenting with Kubernetes, coding projects, and anything tech. Outside of that, I love exploring new ideas, improving my skills, hanging out with my friends 🥂, grabbing coffee ☕, exploring my city 🏢, and building things just for fun.
+I’m passionate about fitness 💪, curious about cloud engineering ☁️, and I enjoy experimenting with Kubernetes, coding projects, and anything tech. Outside of that, I love exploring new ideas, improving my skills, hanging out with my friends 🥂, grabbing coffee ☕, exploring my city 🏢, Playing Dota, Valorant, Starcraft 2, and World of Warcraft 🎮 and building things just for fun.
 
 ---
 
